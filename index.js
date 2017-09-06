@@ -12,5 +12,4 @@ console.log('hello')
 }
 function sayHiToGrandma(string) {
 sayHiToGrandma('hello')
-console.log ("I can\'t hear you!")
 }
