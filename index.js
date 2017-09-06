@@ -12,7 +12,7 @@ function logWhisper(string) {
 console.log('hello')
 }
 function sayHiToGrandma(string) {
-console.log('I love you, Grandma.')
+
 if(string.toUpperCase()===string)
 return 'YES INDEED!'
 if(string.toLowerCase()===string)
