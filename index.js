@@ -12,5 +12,4 @@ console.log('hello')
 }
 function sayHiToGrandma(string) {
 return ('I can\'t herar you!')
-console.log ('hello')
 }
