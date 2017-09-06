@@ -1,4 +1,4 @@
-var grand = 'I love you, Grandma.'
+
 function shout(string) {
   return string.toUpperCase()
 }
@@ -18,6 +18,8 @@ return 'YES INDEED!'
 if(string.toLowerCase()===string)
 return 'I can\'t hear you!'
 
-if (grand() ===string)
+else {
+
+
 return 'I love you, too'
 }
