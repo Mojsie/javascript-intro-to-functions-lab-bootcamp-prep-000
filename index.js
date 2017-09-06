@@ -15,7 +15,7 @@ if(string.toUpperCase()===string)
 return 'YES INDEED!'
 if(string.toLowerCase()===string)
 return 'I can\'t hear you!'
-var grand(I love you, Grandma.)
+var grand('I love you, Grandma.'')
 if (grand() ===string)
 return 'I love you, too'
 }
