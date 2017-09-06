@@ -13,8 +13,5 @@ console.log('hello')
 function sayHiToGrandma(string) {
 console.log('hello')
 return 'I can\'t hear you!'
-console.log("HELLO")
-return 'YES INDEED!'
-console.log('I love you, Grandma.')
-return 'I love you, too.'
+
 }
